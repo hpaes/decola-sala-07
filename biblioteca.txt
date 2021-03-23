@@ -14,3 +14,4 @@ mas quer voltar para um diretório de trabalho limpo.
 10. git add "nome do arquivo" - adiciona o arquivo 
 10.1 git add . ou git add * - adiciona vários arquivos
 11. git remote add origin - Adiciona um novo remote
+12. git branch --list  - Para listar as branches
