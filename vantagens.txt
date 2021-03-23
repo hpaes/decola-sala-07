@@ -3,3 +3,4 @@
 03 - Contribuição simultanea de código
 04 - Segurança os conteúdos são criptograficamente protegidos por um algoritmo de hashin chamado SHA1
 05 - fazer edições e criar novas versões
+06 - git é legal
