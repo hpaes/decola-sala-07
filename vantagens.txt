@@ -1,4 +1,5 @@
 01 - Várias pessoas poderem editar no mesmo projeto
-02 - O código fica salvo na nuvem pronto para ser utilizado em qualquer lugar
+02 - O código fica salvo na nuvem pronto para ser utilizado em qualquer lugar 
 03 - Contribuição simultanea de código
 04 - Segurança os conteúdos são criptograficamente protegidos por um algoritmo de hashin chamado SHA1
+05 - fazer edições e criar novas versões
