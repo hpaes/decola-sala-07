@@ -1,1 +1,2 @@
 01. git rm - deleta arquivo
+02. git checkout - alternância de branch
