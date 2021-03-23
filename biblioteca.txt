@@ -8,3 +8,5 @@
 	  /diretório  - da pasta atual para a pasta do diretório
 	  .. 	      - volta uma pasta
 
+08. git stash - para guardar o index e o estado atual do diretório de trabalho,
+mas quer voltar para um diretório de trabalho limpo.
