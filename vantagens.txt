@@ -1,1 +1,2 @@
 01 - Várias pessoas poderem editar no mesmo projeto
+02 - O código fica salvo na nuvem pronto para ser utilizado em qualquer lugar
