@@ -10,3 +10,4 @@
 
 08. git stash - para guardar o index e o estado atual do diretório de trabalho,
 mas quer voltar para um diretório de trabalho limpo.
+09. git pull - faz atualização do arquivo no diretorio local
