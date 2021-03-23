@@ -1,2 +1,3 @@
 01. git rm - deleta arquivo
 02. git checkout - alternância de branch
+03. git commit -am "nome do commit" - adiciona e commita o arquivo
