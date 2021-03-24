@@ -1,0 +1,17 @@
+01. git rm - deleta arquivo
+02. git checkout - alternância de branch
+03. git commit -am "nome do commit" - adiciona e commita o arquivo
+04. git branch "nome da branch" - cria uma nova branch
+05. git status - verifica o estado do repositório
+06. git push origin master
+07. git cd +diretório - muda a pasta atual para a pasta do diretório
+	  /diretório  - da pasta atual para a pasta do diretório
+	  .. 	      - volta uma pasta
+
+08. git stash - para guardar o index e o estado atual do diretório de trabalho,
+mas quer voltar para um diretório de trabalho limpo.
+09. git pull - faz atualização do arquivo no diretorio local
+10. git add "nome do arquivo" - adiciona o arquivo 
+10.1 git add . ou git add * - adiciona vários arquivos
+11. git remote add origin - Adiciona um novo remote
+12. git branch --list  - Para listar as branches
